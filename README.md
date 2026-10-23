@@ -78,8 +78,6 @@ Co-authored. Peer-reviewed. Journal of Artificial Intelligence and AI Ethics 1(1
 - Fellow of the Royal Statistical Society (FRSS)
 - Reviewer, Deep Learning Indaba RIAD 2026
 
-FRSS and the RIAD role are listed in the speaker bio in the [Cambridge Wireless event agenda](https://www.cambridgewireless.co.uk/asset/57F6B136%2D41EA%2D415E%2DBA6CCC9AB8B8899D/).
-
 ## Links
 
 - LinkedIn: https://www.linkedin.com/in/linda-oraegbunam/
