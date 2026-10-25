@@ -40,7 +40,7 @@ Role: Co-Founder and Director of Governance, Risk and Compliance.
 |---|---|---|
 | [skillguard](https://github.com/obielin/skillguard) | Scans AI agent skills for prompt injection, data exfiltration and malicious payloads before you install them. | `pip install skillshield` |
 | [reliopt](https://github.com/obielin/reliopt) | Tests LLM and agent programs against reliability contracts and picks configs from a Pareto frontier. | `pip install reliopt` |
-| [mcpscan](https://github.com/obielin/mcpscan) | Scans MCP server manifests for security issues. | `pip install git+https://github.com/obielin/mcpscan` |
+| [mcpscan](https://github.com/obielin/mcpscan) | Scans MCP server manifests for security issues. | pip install mcpscan|
 | [agenttrace](https://github.com/obielin/agenttrace) | Writes hash-chained, tamper-evident audit trails for AI agents, mapped to EU AI Act Article 12. | `pip install git+https://github.com/obielin/agenttrace` |
 | [agentsync](https://github.com/obielin/agentsync) | Keeps CLAUDE.md, AGENTS.md, .cursorrules and other agent rule files in sync from one source. | `pip install rulesync` |
 
