@@ -119,7 +119,7 @@ Favourite moment so far: letting a prompt injection try to turn a GDPR erasure i
 
 - LinkedIn: https://www.linkedin.com/in/linda-oraegbunam/
 - X: https://x.com/Obie_Linda
-- YouTube: https://youtube.com/@AIwithLinda
+- YouTube: https://www.youtube.com/@AIwithLinda1
 
 ---
 
