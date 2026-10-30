@@ -42,7 +42,7 @@ Role: Co-Founder and Director of Governance, Risk and Compliance.
 | [reliopt](https://github.com/obielin/reliopt) | Tests LLM and agent programs against reliability contracts and picks configs from a Pareto frontier. | `pip install reliopt` |
 | [agentsync](https://github.com/obielin/agentsync) | Keeps CLAUDE.md, AGENTS.md, .cursorrules and other agent rule files in sync from one source. | `pip install rulesync` |
 
-Contributions welcome: [skillguard](https://github.com/obielin/skillguard/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) and [reliopt](https://github.com/obielin/reliopt/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) have issues labelled good first issue. Issues for the others: [mcpscan](https://github.com/obielin/mcpscan/issues), [agenttrace](https://github.com/obielin/agenttrace/issues), [agentsync](https://github.com/obielin/agentsync/issues).
+Contributions welcome: [skillshield](https://github.com/obielin/skillshield/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) and [reliopt](https://github.com/obielin/reliopt/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) have issues labelled good first issue. Issues for the others: [mcpscan](https://github.com/obielin/mcpscan/issues), [agenttrace](https://github.com/obielin/agenttrace/issues), [agentsync](https://github.com/obielin/agentsync/issues).
 
 ## Contributions to other projects
 
